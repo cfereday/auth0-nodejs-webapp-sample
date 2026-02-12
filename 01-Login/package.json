@@ -10,12 +10,12 @@
     "cookie-parser": "^1.4.5",
     "debug": "~4.2.0",
     "dotenv": "^8.2.0",
-    "express": "~4.17.1",
+    "express": "~4.22.0",
     "express-session": "^1.17.1",
     "http-errors": "~1.8.0",
     "morgan": "~1.10.0",
     "passport": "^0.4.1",
-    "passport-auth0": "^1.4.0",
+    "passport-auth0": "^1.4.1",
     "pug": "^3.0.0"
   }
 }
